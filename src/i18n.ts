@@ -58,6 +58,11 @@ export const languages = [
         code: "zh-TW",
         displayName: "繁體中文",
     },
+    {
+        code: "ja-JP",
+        displayName: "日本語",
+    },
+
 ];
 
 export default i18n;
